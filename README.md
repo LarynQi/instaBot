@@ -21,10 +21,11 @@
   - Download the corresponding driver for your OS and unzip the file in your downloads
   - Move the ChromeDriver to /usr/local/bin by typing `mv ~/Downloads/chromedriver /usr/local/bin`
     - If you're getting a permission denied error run `sudo mv ~/Downloads/chromedriver /usr/local/bin`
- - Run main.py using command line with your Python version
+- Enter in your Instagram username and password as strings in resources.py with the text editor of your choice
+- Run main.py via command line with your Python version
   - ex: `python3 main.py` <br/>
   <br/>
- You're all set! Watch the bot work its magic :)
+You're all set! Watch the bot work its magic :)
 
 ### Resources
-  - Credit goes to [@Code Drip](https://www.youtube.com/watch?v=d2GBO_QjRlo&) on YouTube for the idea and bulk of the code
+  - Credits go to [@Code Drip](https://www.youtube.com/watch?v=d2GBO_QjRlo&) for the idea and bulk of the code
