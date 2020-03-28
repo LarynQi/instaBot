@@ -15,3 +15,7 @@ An Instagram bot that can track who unfollows an account.
  - run main.py using command line with python
   - ex: python3 main.py
  done!
+
+### Resources
+  - credit goes to @Code Drip on YouTube for the idea and bulk of the code
+    - link: https://www.youtube.com/watch?v=d2GBO_QjRlo&t=608s
