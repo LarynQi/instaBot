@@ -5,7 +5,6 @@
 
 
 ## Running the bot
-
 - If you don't have Python download it [here](https://www.python.org/downloads/)
 - If you don't have pip, run `sudo easy_install pip`
 - Check if you have virtualenv by running `pip list`
@@ -19,13 +18,14 @@
   - Check your Chrome version by clicking the 3 dots in the top right of your browser 
   - Click "Help"
   - Click "About Google Chrome"
-  - Download the corresponding driver for your OS
+  - Download the corresponding driver for your OS and unzip the file in your downloads
   - Move the ChromeDriver to /usr/local/bin by typing `mv ~/Downloads/chromedriver /usr/local/bin`
+    - If you're getting a permission denied error run `sudo mv ~/Downloads/chromedriver /usr/local/bin`
  - Run main.py using command line with your Python version
   - ex: `python3 main.py` <br/>
   <br/>
  You're all set! Watch the bot work its magic :)
 
 ### Resources
-  - credit goes to @Code Drip on YouTube for the idea and bulk of the code
-    - [YouTube Video](https://www.youtube.com/watch?v=d2GBO_QjRlo&)
+  - Credit goes to @Code Drip on YouTube for the idea and bulk of the code
+    - [YouTube](https://www.youtube.com/watch?v=d2GBO_QjRlo&)
