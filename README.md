@@ -6,8 +6,10 @@
 
 ## Running the bot
 
-- Check if you have virtualenv by running `pip list`
-  - If you don't have it, install it by running `sudo pip install virtual env`
+- Install pip by running 
+ - `sudo easy_install pip`
+Check if you have virtualenv by running `pip list`
+  - If you don't have it, install it by running `sudo pip install virtualenv`
 - cd into the repo
 - `virtualenv -p python3 venv`
 - `source venv/bin/activate`
