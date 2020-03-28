@@ -1,4 +1,5 @@
 # instaBot
+![alt text][logo]
 [logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png "Instagram logo"
 An Instagram bot that can track who unfollows an account.
 
@@ -11,7 +12,7 @@ An Instagram bot that can track who unfollows an account.
 - `source venv/bin/activate`
 - `pip3 install selenium` in your venv
   - should say `(venv)` in the root of your terminal
-- download the ChromeDriver from https://chromedriver.chromium.org/downloads
+- download the [ChromeDriver](https://chromedriver.chromium.org/downloads)
   - check your chrome version by clicking the 3 dots in the top right of your browser 
   - click "Help"
   - click "About Google Chrome"
