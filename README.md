@@ -1,10 +1,11 @@
 # instaBot
+[Instagram Logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png
 An Instagram bot that can track who unfollows an account.
 
 ## Running the bot
 
-- check if you have virtualenv by running `pip list`
-  - if you don't have it, install it by running `sudo pip install virtual env`
+- Check if you have virtualenv by running `pip list`
+  - If you don't have it, install it by running `sudo pip install virtual env`
 - cd into your working directory
 - `virtualenv -p python3 venv`
 - `source venv/bin/activate`
@@ -22,4 +23,4 @@ An Instagram bot that can track who unfollows an account.
 
 ### Resources
   - credit goes to @Code Drip on YouTube for the idea and bulk of the code
-    - link: https://www.youtube.com/watch?v=d2GBO_QjRlo&t=608s
+    - [YouTube Video]: https://www.youtube.com/watch?v=d2GBO_QjRlo&
