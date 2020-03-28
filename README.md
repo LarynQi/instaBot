@@ -14,7 +14,7 @@ An Instagram bot that can track who unfollows an account.
   - click "Help"
   - click "About Google Chrome"
   - download the corresponding driver for your OS
-  - move the ChromeDriver to /usr/local/bin
+  - move the ChromeDriver to /usr/local/bin by typing mv ~/Downloads/chromedriver /usr/local/bin
  - run main.py using command line with python
   - ex: python3 main.py
  done!
