@@ -3,6 +3,8 @@ An Instagram bot that can track who unfollows an account.
 
 ## Running the bot
 
+- check if you have virtualenv by running pip list
+  - if you don't have it, install it by running sudo pip install virtual env
 - cd into your working directory
 - virtualenv -p python3 venv
 - source venv/bin/activate
