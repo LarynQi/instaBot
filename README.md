@@ -27,5 +27,4 @@
  You're all set! Watch the bot work its magic :)
 
 ### Resources
-  - Credit goes to @Code Drip on YouTube for the idea and bulk of the code
-    - [YouTube](https://www.youtube.com/watch?v=d2GBO_QjRlo&)
+  - Credit goes to [@Code Drip](https://www.youtube.com/watch?v=d2GBO_QjRlo&) on YouTube for the idea and bulk of the code
