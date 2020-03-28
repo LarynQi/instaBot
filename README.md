@@ -1,5 +1,5 @@
 # instaBot
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="drawing" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="drawing" width="100"/>
 
 An Instagram bot that can track who unfollows an account.
 
