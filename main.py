@@ -146,10 +146,20 @@ class instaBot:
             if count == 10:
                 break
         fig = plt.figure(figsize=(15, 7.5))
+        # fig, axs = plt.subplots(2)
         fig.suptitle(f'Devotion of {self.username}\'s Top 10 Instagram Followers', fontsize=18)
         # https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
         plt.rcParams.update({'font.size': 9})
+
+
         plt.bar(names, values)
+        # axs[1].bar(all_names, all_values)
+        # bins = [0, 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10]
+        # n, bins, patches = axs[1].hist(all_values, bins, facecolor='green',histtype='bar', rwidth=0.25)
+
+
+        # plt.plot(bins, 'r--', linewidth=1)
+        # plt.axis(True)
         plt.ylabel('Devotion Score', fontsize=14)
         plt.xlabel('Followers', fontsize=14)
         # font = {'family' : 'normal',
@@ -170,7 +180,7 @@ class instaBot:
                 print(result)
             elif query in scores:
                 # print(f'{query}\'s devotion score: {scores[query]}')
-                print(f'{names.index(query) + 1}. {query} - {scores[query]}\n')
+                print(f'{all_names.index(query) + 1}. {query} - {scores[query]}\n')
             elif query != '' and query != 'q':
                 print(f'ERROR: {query} is not one of your followers\n')
         quit()
