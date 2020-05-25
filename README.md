@@ -1,14 +1,14 @@
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="drawing" width="100"/></p>
 
 # instaBot 
-**An Instagram bot that can gauge follower interaction on your posts. It can also search for users who are not following you back.**
+**An Instagram bot for gauging follower interaction on your posts. It can also find users who are not following back.**
 
 ## Demo
 <p align="center"><img src="./assets/graph.png" alt="graph"/>
   <p align="center"><i>Plot of top 10 followers</i></p><br/>
 </p>
 <p align="center"><img src="./assets/terminal2.png" alt="graph"/>
-  <p align="center"><i>Once the bot finishes running, you can query for the complete list of devotion scores (depicted above) as well as the individual scores of a specific follower</i></p><br/>
+  <p align="center"><i>Once the bot finishes running, you can query for the complete list of scores (depicted above) as well as the individual score of a specific follower</i></p><br/>
 </p>
 
 ## Running the bot
